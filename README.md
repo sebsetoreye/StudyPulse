@@ -14,13 +14,14 @@ pip install --upgrade google-api-python-client google-auth-httplib2 google-auth-
 pip install ollama
 #
 
+#To run locally without the server intergrated, you need to install ollama from their website (https://ollama.com/download) you also need to install the model phi:3. this is until I set up the server.
+
 #Management of data
 This program saves data on google Calender, and currently has no local save.
 
 
 I will continue updating and developing this, to add these features later on.
 
-- Private AI, so there is no longer any OPENAI keys required. ✅️
-( This has been completed, though I need to set up port forwarding on my server, to enable users to run the AI )
+- Update code for server compatibility.
 
 - Create, it as an Application for Android phones ( work in progress )
